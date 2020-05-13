@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\bin\Debug\netcoreapp2.2\MandelbrotSet.deps.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\bin\Debug\netcoreapp2.2\MandelbrotSet.runtimeconfig.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\bin\Debug\netcoreapp2.2\MandelbrotSet.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\bin\Debug\netcoreapp2.2\MandelbrotSet.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\bin\Debug\netcoreapp2.2\MandelbrotSet.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\obj\Debug\netcoreapp2.2\MandelbrotSet.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\obj\Debug\netcoreapp2.2\MandelbrotSet.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\obj\Debug\netcoreapp2.2\MandelbrotSet.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\obj\Debug\netcoreapp2.2\MandelbrotSet.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\obj\Debug\netcoreapp2.2\MandelbrotSet.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\MandelbrotSet\MandelbrotSet\obj\Debug\netcoreapp2.2\MandelbrotSet.pdb
